@@ -15,7 +15,10 @@
 
 [![Ishan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ishan-18&&theme=xcode)](https://github.com/ishan-18)
 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishan-18&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ishan-18" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishan-18&show_icons=true&locale=en&theme=tokyonight" alt="ishan-18" /></p>
 
 <br/>
 <br/>
