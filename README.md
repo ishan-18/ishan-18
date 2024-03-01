@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **MERN and other Technologies**
 
-- 📫 How to reach me **ishangawali02@gmail.com**
-
 - ⚡ Fun fact **I am Funny**
 
 <a href="https://www.linkedin.com/in/ishan-gawali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishan-gawali" height="30" width="40" /></a>
